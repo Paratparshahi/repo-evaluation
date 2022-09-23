@@ -9,6 +9,7 @@ function App() {
   1. Implement only the hook functionality inside hooks/useCounter.js
   2. Create the custom components, inside the respective files of Image.jsx and Image.jsx
   3. The application should function properly after the implimentation of hooks and Custom components
+  4. functionality added
   */
   const { countValue, incCount, decCount } = useCounter({
     initialValue: 10,
